@@ -1,1 +1,1 @@
-Learning C pointers and arrays
+C arrays and pointers
