@@ -1,22 +1,4 @@
-
-Lordwill1
-/
-alx-low_level_programming
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Beta Try the new code view
-alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
-@Lordwill1
-Lordwill1 Task 0 through 6 of project 0x12
- 1 contributor
-41 lines (33 sloc)  679 Bytes
-#include <stdlib.h>
+ #include <stdlib.h>
 #include <string.h>
 #include "lists.h"
 
